@@ -1,0 +1,6 @@
+{   
+    "EPOCHS": 5,
+    "BS": 21,
+    "MAX_LEN": 512,
+    "PATIENCE" : 5
+}
