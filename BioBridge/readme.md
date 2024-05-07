@@ -15,3 +15,8 @@ First, install PyTorch by following the instructions from the official website. 
 ```
 pip install -r requirements.txt
 ```
+
+### Train BioBridge ###
+'''
+bash bert_base.sh
+'''
