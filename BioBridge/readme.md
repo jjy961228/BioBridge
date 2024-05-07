@@ -6,7 +6,7 @@
 
     URL : https://github.com/epfml/sent2vec
 
-2. You should refer to the BioSent2Vec author's repository to download the weights of the pre-trained BioSent2Vec. 
+2. You should refer to the BioSent2Vec author's repository to download the weights of the pre-trained BioSent2Vec model. 21GB(700dim, trained on PubMed+MIMIC-III). 
 
    URL : https://github.com/ncbi-nlp/BioSentVec
 
