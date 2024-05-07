@@ -1,6 +1,6 @@
 **BioBridge: Unified Bio Embeddings with Bridging Modality in Code-Switched EMR.**
 
-### Getting Started ###
+### 1.Getting Started ###
 ```
 pip install -r requirements.txt
 ```
