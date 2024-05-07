@@ -17,6 +17,6 @@ pip install -r requirements.txt
 ```
 
 ### Train BioBridge ###
-'''
+```
 bash bert_base.sh
-'''
+```
