@@ -1,6 +1,6 @@
 ## BioBridge:Unified Bio Embeddings with Bridging Modality in Code-Switched EMR.
 
-### Statistics from the dataset used for training
+### Statistics from the EMR dataset used for training
 ![dataset_discription](https://github.com/jjy961228/BioBridge/assets/93771104/bfefee58-0ccf-449e-a55e-7beba8158b5e)
 
 ### Proposed Method
