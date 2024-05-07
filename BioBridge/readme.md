@@ -17,6 +17,11 @@ pip install -r requirements.txt
 ```
 
 ### Train BioBridge ###
+In the following section, we describe how to train a BioBridge model by using our code.
 ```
 bash bert_base.sh
+```
+
+```
+bash xlm.sh
 ```
