@@ -1,7 +1,7 @@
 ## BioBridge: Unified Bio Embeddings with Bridging Modality in Code-Switched EMR. ##
 
 ### Requirements ### 
-First, install PyTorch by following the instructions from the official website. To faithfully reproduce our results, please use the correct 1.11.0 version corresponding to your platforms/CUDA versions. PyTorch version higher than 1.11.0 should also work.
+We recommend setting up a conda environment for the project:
 ```
 conda create --name=BioBridge python=3.8
 conda activate BioBridge
