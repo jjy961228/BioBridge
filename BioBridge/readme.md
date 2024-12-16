@@ -1,5 +1,3 @@
-## BioBridge: Unified Bio Embeddings with Bridging Modality in Code-Switched EMR. ##
-
 ### Requirements ### 
 We recommend setting up a conda environment for the project:
 ```
