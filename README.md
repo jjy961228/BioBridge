@@ -1,6 +1,6 @@
 ## (IEEE Access'2024) BioBridge: Unified Bio Embeddings with Bridging Modality in Code-Switched EMR.
 
-This repository contains the code and proposed Koglish datasets for our paper [BioBridge: Unified Bio-Embedding With Bridging Modality in Code-Switched EMR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10693433).
+This repository contains the code and proposed BioBridge for our paper [BioBridge: Unified Bio-Embedding With Bridging Modality in Code-Switched EMR](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10693433).
 
 
 ### 1. Statistics from the EMR dataset used for training
