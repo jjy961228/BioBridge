@@ -4,3 +4,7 @@ This repository contains the code and proposed BioBridge for our paper [BioBridg
 
 ## Statistics from the EMR dataset used for training
 ![dataset_discription](https://github.com/jjy961228/BioBridge/assets/93771104/bfefee58-0ccf-449e-a55e-7beba8158b5e)
+
+## Getting Start
+You can start by following the 'Readme.md' instructions within the BioBridge folder.
+
