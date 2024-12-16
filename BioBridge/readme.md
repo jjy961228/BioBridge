@@ -19,7 +19,8 @@ pip install -r requirements.txt
 2. You should refer to the BioSentVec author's repository to download the weights of the pre-trained BioSentVec model. 21GB(700dim, trained on PubMed+MIMIC-III). 
 
    URL : https://github.com/ncbi-nlp/BioSentVec
-```
+
+
 
 ### Train BioBridge ###
 In the following section, we describe how to train a BioBridge model by using our code.
