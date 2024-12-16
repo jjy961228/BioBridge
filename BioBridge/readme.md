@@ -4,7 +4,7 @@ We recommend setting up a conda environment for the project:
 conda create --name=BioBridge python=3.8
 conda activate BioBridge
 
-git clone https://github.com/jjy961228/ConCSE.git
+git clone https://github.com/jjy961228/BioBridge.git
 pip install -r requirements.txt
 ```
 
